@@ -1,4 +1,4 @@
-# Distributed systems manager
+# Distributed Systems Manager
 Big data and distributed systems university project<br>
 Radosław Bodus, Hubert Radom
 
